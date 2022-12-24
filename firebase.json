@@ -1,0 +1,8 @@
+{
+  "hosting": [
+    {
+      "target": "sushiRestaurantWebsite",
+      "public": "public"
+    }
+  ]
+}
